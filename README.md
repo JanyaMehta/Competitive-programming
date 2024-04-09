@@ -11,3 +11,6 @@
 
 [Runner Up score](https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list/problem) :
 [Solution](./solutions/RunnerUpScore.py)
+
+[Finding Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) :
+[Solution](./solutions/FindingPercentage.py)
