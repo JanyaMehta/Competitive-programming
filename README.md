@@ -14,3 +14,12 @@
 
 [Finding Percentage](https://www.hackerrank.com/challenges/finding-the-percentage/problem) :
 [Solution](./solutions/FindingPercentage.py)
+
+[Text Wrap](https://www.hackerrank.com/challenges/text-wrap/problem) :
+[Solution](./solutions/TextWrap.py)
+
+[Capitalize](https://www.hackerrank.com/challenges/text-wrap/problem) :
+[Solution](./solutions/Capitalize.py)
+
+[DesignerDoorMat](https://www.hackerrank.com/challenges/designer-door-mat/problem)
+[Solution](./solutions/DesignerDoorMat.py)
